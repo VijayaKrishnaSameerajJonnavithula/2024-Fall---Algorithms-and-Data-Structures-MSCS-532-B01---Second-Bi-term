@@ -11,6 +11,6 @@ def insertion_sort_descending(arr):
     return arr
 
 # Example usage:
-arr = [20, 201, 113, 15, 66]
+arr = [1,2,3,4,5]
 sorted_arr = insertion_sort_descending(arr)
 print("Sorted array in descending order:", sorted_arr)
